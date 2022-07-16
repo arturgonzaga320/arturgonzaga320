@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://user-images.githubusercontent.com/104570132/179357826-181276bc-e01f-4e25-800b-50eec07fe2a3.gif)
+![VenomDeathGIF](https://user-images.githubusercontent.com/104570132/179357826-181276bc-e01f-4e25-800b-50eec07fe2a3.gif)
 
 <!--
 **arturgonzaga320/arturgonzaga320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
