@@ -8,8 +8,8 @@ and <a href="https://www.artstation.com/arturgonzaga">I draw for fun</a> -->
 </b>
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=arturgonzaga320&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arturgonzaga320&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320&layout=compact&langs_count=7&theme=apprentice"/>
   <hr> </hr>  
 </div>
 
