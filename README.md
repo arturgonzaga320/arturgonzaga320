@@ -2,11 +2,11 @@
 **arturgonzaga320/arturgonzaga320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<big> <b>
-Hi! I'm coursing System Development at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a>
+
+## Hi! I'm coursing System Development at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a>
 <!-- When you up more thing, this will let to be a commentary
 and <a href="https://www.artstation.com/arturgonzaga">I draw for fun</a> -->
-</b> </big>
+
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arturgonzaga320&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
