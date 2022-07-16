@@ -10,4 +10,3 @@
   
 </div>
 <hr> </hr>
-![HeyEddieBrockGIF](https://user-images.githubusercontent.com/104570132/179359818-68204eda-c2a3-4a42-b9fb-a0c56f1dc7cf.gif)
