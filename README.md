@@ -14,9 +14,9 @@ and <a href="https://www.artstation.com/arturgonzaga">I draw for fun</a> -->
 </div>
 
 <div align="left"> 
-<img height="88em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-<img height="88em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-<img height="88em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-<img height="88em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
+<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
+<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
+<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
+<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
 </div>
 
