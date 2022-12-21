@@ -2,22 +2,29 @@
 **arturgonzaga320/arturgonzaga320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<h1 align="center">
+  Hi! I'm finishing high school 😬
+</h1>
 
-## Hi! I'm coursing System Development at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a>
-<!-- When you up more thing, this will let to be a commentary
-and <a href="https://www.artstation.com/arturgonzaga">I draw for fun</a> -->
-
-
-
+<!-- 
+When you up more thing, this will let to be a commentary
+and 
+-->
+  
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arturgonzaga320&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320&layout=compact&langs_count=7&theme=slateorange"/>
-  <hr> </hr>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <p></p>
 </div>
-
-<div align="left"> 
-<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-<img height="146em" src="https://user-images.githubusercontent.com/104570132/179360492-7ed47444-5e00-4732-8202-04e43e160cd1.gif" />
-</div>
+  
+<p> 
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320" /> 
+  <p>
+    After several Desing's curses, I've started studing T.I area since 2021 at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a> <br /><br />
+    To conclude my certification as systems development technician, I need to find an internship what I can wait for it! Please check my other works on
+    <a href="https://www.artstation.com/arturgonzaga">artstation</a> ( still uploading...) <h1 />
+   
+  </p>
+</p>
