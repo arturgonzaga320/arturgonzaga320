@@ -22,7 +22,7 @@ and
 <p> 
   <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320" /> 
   <p>
-    After several Desing's curses, I've started studing T.I area since 2021 at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a> <br /><br />
+    After several Desing's courses, I've started studing T.I area since 2021 at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a> <br /><br />
     To conclude my certification as systems development technician, I need to find an internship what I can wait for it! Please check my other works on
     <a href="https://www.artstation.com/arturgonzaga">artstation</a> ( still uploading...) <h1 />
    
