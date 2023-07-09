@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">
-  Hi! I'm finishing high school 😬
+  Hi!
 </h1>
 
 <!-- 
