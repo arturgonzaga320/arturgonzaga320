@@ -1,10 +1,11 @@
 <!--
 **arturgonzaga320/arturgonzaga320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<h1 align="center">
-  Hi!
-</h1>
+  <p></p>
+<h2>
+  __<br>
+  em conclusão do curso técnico em Desenvolvimento de Sistemas do COLTEC UFMG ( sim ) <br>trabalho com artes e design ( <a href="https://www.artstation.com/arturgonzaga">artstation </a>) <br>uso vim ( sempre )
+</h2>
 
 <!-- 
 When you up more thing, this will let to be a commentary
@@ -19,12 +20,12 @@ and
   <p></p>
 </div>
   
-<p> 
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320" /> 
-  <p>
-    After several Desing's courses, I've started studing T.I area since 2021 at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a> <br /><br />
-    To conclude my certification as systems development technician, I need to find an internship what I can wait for it! Please check my other works on
-    <a href="https://www.artstation.com/arturgonzaga">artstation</a> ( still uploading...) <h1 />
-   
-  </p>
-</p>
+
+  <div align="center">
+
+  <img width=60% src="https://github.com/arturgonzaga320/arturgonzaga320/assets/104570132/7ab2f12e-bc81-4e8c-aca2-6abdea2265b4)" />
+  <img width=31.8% src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgonzaga320&theme=tokyonight" />  
+
+
+
+  </div>
