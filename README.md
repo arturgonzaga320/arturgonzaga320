@@ -4,7 +4,7 @@
   <p></p>
 <h2>
   __<br>
-  em conclusão do curso técnico em Desenvolvimento de Sistemas do COLTEC UFMG ( sim ) <br>trabalho com artes e design ( <a href="https://www.artstation.com/arturgonzaga">artstation </a>) <br>uso vim ( sempre )
+  em conclusão do curso técnico em Dev. Sistemas do COLTEC UFMG ( sim ) <br>trabalho com artes e design ( <a href="https://www.artstation.com/arturgonzaga">artstation </a>) <br>uso vim ( sempre )
 </h2>
 
 <!-- 
